@@ -3,8 +3,8 @@
  */
 var conf = {
     boot: {
-        port: 80,
-        env: 'development'
+        port: 8080,
+        env: 'run'
     }
 }
 module.exports = conf
